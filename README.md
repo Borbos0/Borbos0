@@ -3,7 +3,7 @@ My name is Danya. I'm frontend developer from Saint-Petersburg. Trying to improv
 
 Contacts for communication:
 
-  [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/borbos0)
+  [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Daniil_Ermolin)
     
 ## Languages and Tools
 
